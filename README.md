@@ -155,6 +155,7 @@ class HariniSriKB:
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | 🫀 **Heart Stroke Prediction System** | Python · Scikit-learn · XGBoost · Pandas | Trained on **5,000+ patient records** · Compared 4 ML models · Achieved **~91% accuracy** · Reduced false positives by **~18%** via ensemble tuning |
+| 🧠 **Brain Tumor Segmentation System** | Python · TensorFlow · Keras · Medical Imaging | Processed MRI brain scans for automated tumor segmentation · Deep learning-based medical image analysis · Improved visualization of tumor regions for diagnosis support |
 | 🧠 **Psychology Chatbot** | Python · Scikit-learn · Streamlit · NLP | Assessed mental health across **5 response categories** · **~85% classification accuracy** on **1,200+ samples** · Real-time Streamlit frontend |
 | 🍱 **Save Food App** | Flutter · Firebase · Dart · Google Maps API | Cross-platform mobile app connecting donors & recipients · **~60% reduction** in manual coordination · Real-time DB sync & **3 km radius** Google Maps integration |
 
